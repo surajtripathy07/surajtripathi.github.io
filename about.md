@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software Engineer by the day.
 
-### More Information
+Masters Student at GaTech(OMSCS) at Night.
 
-A place to include any other types of information that you'd like to include about yourself.
+In my spare time I Like,
+1. Listening to AudioBooks 
+2. Watching movies
+3. Video Games(PS4)
+4. Chess (Lichess profile: [MrApathyJurist](https://lichess.org/@/MrApathyJurist))
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[surajtripathi793@gmail.com](mailto:surajtripathi793@gmail.com)
