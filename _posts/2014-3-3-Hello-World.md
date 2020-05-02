@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Artificial Intelligence (CS 6601 - Spring 2020)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This post is going to be a summary of the content covered in the [CS 6601](https://www.omscs.gatech.edu/cs-6601-artificial-intelligence) course. 
+This content is for me to comeback to and for others who might want to get a quick primer/overview of the contents in the course. It may also be used as series of post to learn a bit about Artificial Intelligence.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Without further deviation:
+1. [Game Playing]({{ site.baseurl }}/_referenceblogs/game_playing.md)
