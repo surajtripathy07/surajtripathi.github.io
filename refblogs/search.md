@@ -97,3 +97,7 @@ Thus, if we are trying to find the cheapest solution, a reasonable thing to try 
 
      `h(n) ≤ step-cost of node n with action-a to reach node n' + h(n ')`
 
+Algorithm for A* would be same as UCS, with just the change of the evaluation function.
+
+Also, the performance of heuristic search algorithms depends on the quality of the heuristic function. One can sometimes construct good heuristics by relaxing the problem defi- nition, by storing precomputed solution costs for subproblems in a pattern database, or by learning from experience with the problem class.
+
