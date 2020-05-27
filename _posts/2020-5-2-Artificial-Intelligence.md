@@ -10,11 +10,5 @@ This content is for me to comeback to and for others who might want to get a qui
 Without further deviation:
 1. [Game Playing]({% link refblogs/game_playing.md %})
 2. [Search]({% link refblogs/search.md %})
-3. Constraint Satisfaction 
-4. Probability and Bayes Nets 
-5. Machine Learning 
-6. Pattern Recognition through Time
-7. Logical Planning
-8. Planning with Uncertinity
 
-PS: This is a Work in Progress
+Thanks for reading!
